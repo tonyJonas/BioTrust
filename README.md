@@ -1,8 +1,11 @@
 # EthSamba Hack Rio23
 
+
 <p align="center">
 <img src="docs/capaBioTrust.png" alt="BioTrust" border="0" width=100% height=100%></a>
 </p>
+
+
 
 <eng>
 
@@ -94,5 +97,10 @@ To get started with BioTrust, follow these simple steps:
 4. It's simple like that and in a few minutes, you can use BioTrust platform!
 
 ## Smart contract verification (Etherscan)
-To analyse our verification, you can download our [Smart contract verification (Etherscan)](/docs/Verification.pdf).
+To analyse our verification, you can download our [Smart contract verification (Etherscan)](https://sepolia.scrollscan.com/verifyContract-solc?a=0x3E04c81541E10712661eAe2EAfAd55f26b4dc528&c=v0.8.19%2bcommit.7dd6d404&lictype=3).
+
+
+
+
+
 
